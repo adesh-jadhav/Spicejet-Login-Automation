@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
 //@CucumberOptions(features="src/test/java/Feature_Files",glue="StepDefinations",monochrome=true,dryRun=true )
 
 
-public class DealsTestngRunner2 extends AbstractTestNGCucumberTests 
+public class SpicejetTest extends AbstractTestNGCucumberTests 
 {
 
 }
